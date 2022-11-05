@@ -1,26 +1,26 @@
 {
-  "name": "@paralenz/eslint-config-typescript-react",
+  "name": "@familiohq/eslint-config-typescript-react",
   "version": "1.2.5",
-  "description": "Paralenz eslint configuration for typescript and React",
+  "description": "familiohq eslint configuration for typescript and React",
   "main": "index.js",
   "scripts": {
     "test": "jest --config jest.config.json"
   },
   "keywords": [
-    "paralenz",
+    "familiohq",
     "linting",
     "eslint"
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "homepage": "https://github.com/paralenz/eslint-config-typescript-react",
+  "homepage": "https://github.com/familiohq/eslint-config-typescript-react",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paralenz/eslint-config-typescript-react.git"
+    "url": "git+https://github.com/familiohq/eslint-config-typescript-react.git"
   },
   "bugs": {
-    "url": "https://github.com/paralenz/eslint-config-typescript-react/issues"
+    "url": "https://github.com/familiohq/eslint-config-typescript-react/issues"
   },
   "license": "ISC",
   "dependencies": {
