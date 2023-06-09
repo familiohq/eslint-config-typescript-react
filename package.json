@@ -1,6 +1,6 @@
 {
   "name": "@familiohq/eslint-config-typescript-react",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "familiohq eslint configuration for typescript and React",
   "main": "index.js",
   "scripts": {
